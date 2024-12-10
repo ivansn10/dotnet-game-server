@@ -1,0 +1,7 @@
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\Server
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\Server.dll
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\Server.deps.json
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\Server.runtimeconfig.json
+C:\Projects\dotnet-game-server\bin\Release\net8.0\linux-x64\publish\Server.pdb
